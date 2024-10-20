@@ -25,7 +25,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SmartMed"
         tools:targetApi="31">
-      
+
+          <activity
+            android:name=".DrugDiscoveryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChatActivity"
+            android:exported="false" />
         <activity
             android:name=".SessionDetailsActivity"
             android:exported="false" />
