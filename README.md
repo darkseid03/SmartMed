@@ -1,4 +1,5 @@
 # SmartMed
+<<<<<<< HEAD
 ![Logo](https://github.com/darkseid03/SmartMed/blob/main/logo.png)
 
 SmartMed is a advance healthcare platform aimed at improving patient care by combining medical data, diagnostic tools, and personalized treatment approaches. It facilitates seamless interaction between healthcare providers and patients, offers realistic medical data generation for research purposes, leverages models to identify potential new drugs by proposing molecular structures and provides tools for early symptom assessment and patient engagement
@@ -33,3 +34,10 @@ Health Query Assistance: Have all your health-related queries answered right wit
 ![Profile Setup Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/profile.jpg?raw=true)
 ![Home Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/homepage.jpg?raw=true)
 ![Symptom Analysis Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/symptom%20(1).jpg?raw=true)
+=======
+A project for ATMECS Global GenAi Hackathon
+![Logo](https://github.com/darkseid03/SmartMed/blob/main/logo.png)
+
+SmartMed is a next-generation personalized medical assistant application designed to revolutionize the way users manage their health. With SmartMed, users can create and follow customized medical plans tailored to their specific needs, modify those plans easily, and access a built-in AI assistant that provides instant health advice. Additionally, SmartMed supports the analysis of medical images, helping users gain valuable insights into their conditions. Our mission is to provide an easy-to-use and intuitive tool that empowers individuals to take control of their health and well-being.
+Do leave a star in you like this Project 🌟🌟🌟🌟🌟
+>>>>>>> 13b30dfdc7eca6891f09c863ac37e255266a2bb4
