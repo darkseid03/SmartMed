@@ -24,13 +24,3 @@ Drug Discovery Assistance: Assist in drug discovery research with powerful AI al
 User-Friendly Interface: Enjoy a smooth experience with a clean, intuitive interface that makes navigation simple and easy<br>
 Secure Data Storage with Firebase: All user data is securely stored in the cloud, utilizing Firebase for real-time database and authentication services<br>
 Health Query Assistance: Have all your health-related queries answered right within the app, helping you stay informed and make better decisions
-
-## Screenshots
-
-![Welcome Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/welcome.jpg?raw=true)
-![Sign Up Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/signup.jpg?raw=true)
-![Log In Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/login.jpg?raw=true)
-![Profile Setup Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/profile.jpg?raw=true)
-![Home Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/homepage.jpg?raw=true)
-![Symptom Analysis Page](https://github.com/Rex1671/SmartMedAndroidApp/blob/master/symptom%20(1).jpg?raw=true)
-
